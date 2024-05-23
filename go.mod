@@ -1,6 +1,6 @@
 module github.com/taikoxyz/taiko-mono
 
-go 1.21
+go 1.22
 
 require (
 	github.com/btcsuite/btcd/btcec/v2 v2.3.3
@@ -308,4 +308,4 @@ replace github.com/ethereum/go-ethereum v1.13.15 => github.com/taikoxyz/taiko-ge
 
 replace github.com/ethereum-optimism/optimism v1.7.4 => github.com/taikoxyz/optimism v0.0.0-20240508063202-db34e8c760ea
 
-replace github.com/uber/jaeger-client-go => github.com/uber/jaeger-client-go v2.25.0+incompatible
+
